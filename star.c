@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
   {
-       int n,c,r,l,p;
+       int n,c,r,l;
 
      printf("Enter a no ");
  
